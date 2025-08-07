@@ -1,5 +1,6 @@
 ## Hello World eu sou o Vinicius Guilherme, Desenvolvedor WEB/Software!
-atualmente estou priorizando o aprendizado em react para o desenvolvimento do meu tcc, onde fiquei responsavel pelo front-end, nao tenho nenhuma preferencia por area, gosto tanto do front quanto do back, tenho muito interresse tambem em banco de dados, apos ter um conhecimento basico em react, minha proxima linguagem que quero aprender é o C#.
+Estou focado no aprendizado de React para o desenvolvimento do front-end do meu TCC, no qual sou responsável pelo front-end. Não possuo preferência específica por área, pois aprecio tanto o desenvolvimento front-end quanto back-end. Tenho grande interesse em bancos de dados e, após consolidar meus conhecimentos em React, pretendo estudar C# como próxima linguagem.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
