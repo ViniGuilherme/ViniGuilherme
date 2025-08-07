@@ -1,5 +1,5 @@
 ## Hello World eu sou o Vinicius Guilherme, Desenvolvedor WEB/Software!
-Estou focado no aprendizado de React para o desenvolvimento do front-end do meu TCC, no qual sou responsável pelo front-end. Não possuo preferência específica por área, pois aprecio tanto o desenvolvimento front-end quanto back-end. Tenho grande interesse em bancos de dados e, após consolidar meus conhecimentos em React, pretendo estudar C# como próxima linguagem.
+Estou focado no aprendizado de React para o desenvolvimento do front-end do meu TCC, no qual sou responsável pelo front-end. Não possuo preferência específica por área, pois gosto tanto do desenvolvimento front-end quanto back-end, tenho tambem muito interrese em bancos de dados e, após consolidar meus conhecimentos em React, pretendo estudar C# como próxima linguagem.
 
 
 <div style="display: inline_block"><br>
